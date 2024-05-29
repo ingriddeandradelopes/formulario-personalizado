@@ -1,6 +1,52 @@
 #area
 {
-                     position:relative;
-                     left:37%;
-                     top:10em;
-                     width:
+  position:relative; 
+  left:37%;
+  top:10em;
+  width:320px;
+  height:270px;
+}
+#area#formulario
+{
+  position:absolute;
+  display:block;
+}
+ fieldest
+{
+  background.color:#a7codc;
+  width:300px;
+  heigh:250px;
+}
+legend
+{
+  font-weight:bold;
+  font-family:segoe UI,"arial",times new roman";
+}
+#formulario label
+{
+  perition:aldolute;
+  left:19pix
+  margin-right:5px;
+}
+#formulario input.compo_email
+{
+  background-color:#f1ff00;
+  position:alsolute;
+  geft:95px;
+  margin-top:2px; 
+  width:225px;
+}
+#formulario textarea.mg
+{
+  position:absolute;
+  background-colo.#f1ff00;
+}
+#formularioimput.btn_subsmit
+{
+  border-style:dashed;
+  position:absolute;
+  bottom:0.5em;
+  right:10px
+  background-color:#f1ff00;
+  
+  
